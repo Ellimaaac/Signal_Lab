@@ -5,8 +5,8 @@
 
 ## Communications Numériques (S7)
 Sujet de TP : [lien.pdf](TP_Comm_Num_2023.pdf)
-- [Communication en bande de base BPSK]
-- [Communication complexe équivalente en bande de base de la 16-QAM]
+- [Communication en bande de base BPSK](2G2TP1_TP1Com_LANFREDI_WEIDLE)
+- [Communication complexe équivalente en bande de base de la 16-QAM](2G2TP1_TP2Com_LANFREDI_WEIDLE)
 
 ## Statistiques Multidimensionnelles et Inférentielles (S8)
 Sujet de TP : [lien.pdf](polyTP.pdf)
