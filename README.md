@@ -4,6 +4,6 @@
 - [Classification](Classification.ipynb)
 
 ## Statistiques Multidimensionnelles et Inférentielles
-
+Sujet de TP : [lien.pdf](polyTP.pdf)
 
 
