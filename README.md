@@ -3,4 +3,5 @@
 - [Regression Linéaire](#)
 - [Classification](#)
 
-## Statistique 
+## Statistiques et Méthodes Numériques
+
