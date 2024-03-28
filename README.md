@@ -1,7 +1,7 @@
 # Signal_Lab
 ## Machine Learning
 - [Regression Linéaire](#)
-- [Classification](#)
+- [Classification](#Régression_Linéaire.ipynb)
 
 ## Statistiques Multidimensionnelles et Inférentielles
 
