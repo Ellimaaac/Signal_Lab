@@ -4,7 +4,9 @@
 - [Classification](Classification.ipynb)
 
 ## Communications Numériques (S7)
-
+Sujet de TP : [lien.pdf](TP_Comm_Num_2023.pdf)
+- [Communication en bande de base BPSK]
+- [Communication complexe équivalente en bande de base de la 16-QAM]
 
 ## Statistiques Multidimensionnelles et Inférentielles (S8)
 Sujet de TP : [lien.pdf](polyTP.pdf)
