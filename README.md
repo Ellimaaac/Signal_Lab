@@ -3,5 +3,7 @@
 - [Regression Linéaire](#)
 - [Classification](#)
 
-## Statistiques et Méthodes Numériques
+## Statistiques Multidimensionnelles et Inférentielles
+
+
 
