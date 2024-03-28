@@ -1,5 +1,8 @@
 # Signal_Lab
 ## Analyse de Fourier (1B - S6)
+Sujet de TP : [lien.pdf](Analyse_Fourier.pdf)
+- [Analyse de Fourier](Analyse_Fourier.nb)
+
 ## Machine Learning (S7)
 - [Regression Linéaire](Régression_Linéaire.ipynb)
 - [Classification](Classification.ipynb)
