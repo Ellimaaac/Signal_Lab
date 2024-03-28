@@ -3,6 +3,9 @@
 - [Regression Linéaire](Régression_Linéaire.ipynb)
 - [Classification](Classification.ipynb)
 
+## Communications Numériques (S7)
+
+
 ## Statistiques Multidimensionnelles et Inférentielles (S8)
 Sujet de TP : [lien.pdf](polyTP.pdf)
 - [Pierre-Feuille-Ciseaux](2G3TP5-TP1-WEIDLE-LANFREDI.nb)
