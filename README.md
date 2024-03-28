@@ -3,6 +3,8 @@
 Sujet de TP : [lien.pdf](Analyse_Fourier.pdf)
 - [Analyse de Fourier](Analyse_Fourier.nb)
 
+## Traitement Numérique du Signal (S6)
+
 ## Machine Learning (S7)
 - [Regression Linéaire](Régression_Linéaire.ipynb)
 - [Classification](Classification.ipynb)
