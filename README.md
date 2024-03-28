@@ -5,9 +5,9 @@
 
 ## Statistiques Multidimensionnelles et Inférentielles (S8)
 Sujet de TP : [lien.pdf](polyTP.pdf)
-- [Pierre-Feuille-Ciseaux]
-- [Test d'hypothèses]
-- [Estimation de densité]
+- [Pierre-Feuille-Ciseaux](2G3TP5-TP1-WEIDLE-LANFREDI.nb)
+- [Test d'hypothèses](2G3TP5_TP2_WEIDLE_LANFREDI.nb)
+- [Estimation de densité](2G3TP5_TP3_WEIDLE_LANFREDI.ipynb)
 - [Restauration de densité]
 
 
