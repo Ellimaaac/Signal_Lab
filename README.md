@@ -13,6 +13,6 @@ Sujet de TP : [lien.pdf](Sujets_TP/polyTP.pdf)
 - [Pierre-Feuille-Ciseaux](2G3TP5-TP1-WEIDLE-LANFREDI.nb)
 - [Test d'hypothèses](2G3TP5_TP2_WEIDLE_LANFREDI.nb)
 - [Estimation de densité](2G3TP5_TP3_WEIDLE_LANFREDI.ipynb)
-- [Restauration de densité]((2G3TP5-TP4-WEIDLE-LANFREDI.nb)
+- [Restauration de densité](2G3TP5-TP4-WEIDLE-LANFREDI.nb)
 
 
