@@ -1,5 +1,6 @@
 # Signal_Lab
 ## Machine Learning (S7)
+Si vous pipez rien mais que vous avez le TOEIC, lisez-ça : [lien leetcode ML](https://leetcode.com/explore/featured/card/machine-learning-101/281/how_to_ml/)
 - [Regression Linéaire](Régression_Linéaire.ipynb)
 - [Classification](Classification.ipynb)
 
