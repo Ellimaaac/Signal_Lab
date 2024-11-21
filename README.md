@@ -16,4 +16,6 @@ Sujet de TP : [lien.pdf](Sujets_TP/polyTP.pdf)
 - [Estimation de densité](2G3TP5_TP3_WEIDLE_LANFREDI.ipynb)
 - [Restauration de densité](2G3TP5_TP4_WEIDLE_LANFREDI.nb)
 
+##
+
 
